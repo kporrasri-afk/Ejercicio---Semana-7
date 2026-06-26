@@ -1,0 +1,6 @@
+.biografia {
+  width: 150px;       /* O el tamaño que prefieras */
+height: 150px;
+  border-radius: 50%; /* Vuelve la imagen circular */
+  object-fit: cover;  /* Centra y recorta la imagen para que encaje sin estirarse */
+}
